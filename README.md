@@ -1,2 +1,2 @@
-This is a place to depoit my lab assignment 434-2026
+This is a place to deposit my lab assignment 434-2026
 
