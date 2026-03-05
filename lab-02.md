@@ -1,5 +1,5 @@
 # lab-2 Causal Diagrams 
-## Causal Diagrame; Five Elementary Stuctures 
+## Causal Diagrame: Five Elementary Structures 
 
 This was the 2nd lesson and some elementray casual structures were covered with the emphasis on causal diagrams
 and followings: 
@@ -16,4 +16,5 @@ and followings:
 
 Further to that installation of R Studio and github were practised as lab project that was challenging and interesting. 
 The lessons were elaborately discussed with few examples. The theories of causal effect also are discussed following 
+
 Chapter 1 of **What If** by Hernan & Robins. That was mostly maths related and sometimes hard to understand.  
