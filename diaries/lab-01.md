@@ -10,3 +10,4 @@ Basically the method and introduction to the causal inference and the workflow o
 * Every single correction in the file can be seen.
 * The GitHub can share the files and any work can be pulled and after necessary development in git it can pushed to the GitHub.
 * All the changes can be identified, the basic workflow in stage add and commit.
+
