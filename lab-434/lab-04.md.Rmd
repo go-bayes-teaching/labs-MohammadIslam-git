@@ -1,0 +1,43 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+------------------------------------------------------------------------
+
+title: "lab-04.md" output: word_document date: "2026-03-18"
+
+# Lab-04
+
+## Selection Bias and Measurement Bias
+
+In today's lesson week 4 we learnt about the selection use of fork, chain, and collider structures to recognise how bias enters a study including the classification of four structural types of error.
+We also learnt how to condition of selection bias affects causal contrasts.
+Relevent diagrams were discussed.
+In the lab we learnt followings:
+
+\* How to write a simple regression formula in R.
+
+\* How adding a second predictor can change a coefficient.
+
+\* How an interaction changes fitted lines.
+
+\* How to rerun a model after changing the formula.
+
+The lessons were interesting but challenging.
+Need to revise by further studies.
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
