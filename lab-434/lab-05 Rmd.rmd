@@ -1,0 +1,13 @@
+# Lab-05 Diary
+
+## Causal Inference: Average Treatment Effect
+
+Week 05 covers the lessons on **Average Treatment Effect** including its application in lab -05 practice. The lesson mostly covered followings:
+
+-   The fundamental problem of causal inference
+-   Average (marginal) treatment effects
+-   Causal consistency
+-   Exchangeability
+-   Positivity
+
+In the lab practice we learned how to develop codes for linear model regression along with making frames. The practice was understandable with moderate difficulties and require more practice at home.
