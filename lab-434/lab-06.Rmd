@@ -1,0 +1,10 @@
+## Lab-06 Dairy
+
+## Effect Modification and CATE
+
+This week we learnt about effect modification and CATE. The important part was knowing the difference between \* Interaction Vs Effect Modifucation \* Interaction concerns two intervention while the effect modification concerns one intervention across the subgroup. Effect modification by proxies were also discussed and
+
+Two rules of thumb
+
+-   A variable can modify the treatment effect even if it has no direct arrow to the outcome in the adjusted DAG.
+-   Whether a variable is an effect modifier depends on what other variables are in the conditioning set. Effect modification is relative, not absolute.
